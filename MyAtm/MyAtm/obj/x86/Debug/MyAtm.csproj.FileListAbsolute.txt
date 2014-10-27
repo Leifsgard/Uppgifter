@@ -1,0 +1,6 @@
+Z:\Github\csharp-courses\csharp-beginner\For Students\Sourcecode\MyAtm\MyAtm\bin\Debug\MyAtm.exe.config
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\MyAtm\MyAtm\bin\Debug\MyAtm.exe
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\MyAtm\MyAtm\bin\Debug\MyAtm.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\MyAtm\MyAtm\obj\x86\Debug\MyAtm.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\MyAtm\MyAtm\obj\x86\Debug\MyAtm.exe
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\MyAtm\MyAtm\obj\x86\Debug\MyAtm.pdb

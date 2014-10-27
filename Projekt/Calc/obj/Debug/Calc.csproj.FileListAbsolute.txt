@@ -1,0 +1,8 @@
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\bin\Debug\Calc.exe.config
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\bin\Debug\Calc.exe
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\bin\Debug\Calc.pdb
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\bin\Debug\Logger.exe
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\bin\Debug\Logger.pdb
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\obj\Debug\Calc.exe
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Calc\obj\Debug\Calc.pdb

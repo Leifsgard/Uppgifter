@@ -1,0 +1,3 @@
+z:\ec\Extra2\Extra exercises 2\Exercise - 5\bin\Release\Exercise - 5.exe.config
+z:\ec\Extra2\Extra exercises 2\Exercise - 5\bin\Release\Exercise - 5.exe
+z:\ec\Extra2\Extra exercises 2\Exercise - 5\bin\Release\Exercise - 5.pdb

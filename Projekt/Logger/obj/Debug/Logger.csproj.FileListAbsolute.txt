@@ -1,0 +1,5 @@
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\bin\Debug\Logger.exe.config
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\bin\Debug\Logger.exe
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\bin\Debug\Logger.pdb
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\obj\Debug\Logger.exe
+c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\obj\Debug\Logger.pdb

@@ -1,0 +1,5 @@
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise3\Exercise3\obj\Debug\Exercise3.csprojResolveAssemblyReference.cache
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise3\Exercise3\obj\Debug\Exercise3.pdb

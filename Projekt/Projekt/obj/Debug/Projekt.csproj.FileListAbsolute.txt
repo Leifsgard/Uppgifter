@@ -1,0 +1,10 @@
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Projekt.exe.config
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Projekt.exe
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Projekt.pdb
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Calc.exe
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Logger.exe
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Calc.pdb
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\Logger.pdb
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.exe
+c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
