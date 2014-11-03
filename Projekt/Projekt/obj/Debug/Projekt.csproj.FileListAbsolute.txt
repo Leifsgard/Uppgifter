@@ -8,3 +8,6 @@ c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\bin\Debug\
 c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
 c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.exe
 c:\users\rasmus\documents\visual studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Projekt\Projekt\obj\Debug\Projekt.pdb

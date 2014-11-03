@@ -1,0 +1,8 @@
+z:\ec\Test2\Start\bin\Debug\Start.exe.config
+z:\ec\Test2\Start\bin\Debug\Start.exe
+z:\ec\Test2\Start\bin\Debug\Start.pdb
+z:\ec\Test2\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+z:\ec\Test2\Start\obj\Debug\Start.exe
+z:\ec\Test2\Start\obj\Debug\Start.pdb
+z:\ec\Test2\Start\bin\Debug\Calc2.dll
+z:\ec\Test2\Start\bin\Debug\Calc2.pdb

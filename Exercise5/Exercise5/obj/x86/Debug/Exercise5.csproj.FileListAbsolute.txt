@@ -5,3 +5,6 @@ X:\Solutions\Exercise5\Exercise5\obj\x86\Debug\Exercise5.pdb
 X:\Solutions\Exercise5\Exercise5\obj\x86\Debug\Exercise5.csprojResolveAssemblyReference.cache
 Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise5\Exercise5\obj\x86\Debug\Exercise5.exe
 Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise5\Exercise5\obj\x86\Debug\Exercise5.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise5\Exercise5\bin\Debug\Exercise5.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise5\Exercise5\bin\Debug\Exercise5.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise5\Exercise5\obj\x86\Debug\Exercise5.csprojResolveAssemblyReference.cache

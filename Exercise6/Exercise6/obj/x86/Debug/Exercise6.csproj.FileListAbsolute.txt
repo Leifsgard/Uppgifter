@@ -1,0 +1,10 @@
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise6\Exercise6\bin\Debug\Exercise6.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise6\Exercise6\bin\Debug\Exercise6.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise6\Exercise6\obj\x86\Debug\Exercise6.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise6\Exercise6\obj\x86\Debug\Exercise6.pdb
+X:\Solutions\Exercise6\Exercise6\obj\x86\Debug\Exercise6.exe
+X:\Solutions\Exercise6\Exercise6\obj\x86\Debug\Exercise6.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise6\Exercise6\obj\x86\Debug\Exercise6.csprojResolveAssemblyReference.cache
+X:\Solutions\Exercise6\Exercise6\bin\Debug\Exercise6.exe
+X:\Solutions\Exercise6\Exercise6\bin\Debug\Exercise6.pdb
+X:\Solutions\Exercise6\Exercise6\obj\x86\Debug\Exercise6.csprojResolveAssemblyReference.cache

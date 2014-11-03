@@ -1,0 +1,11 @@
+X:\Solutions\Exercise7\Exercise7\bin\Debug\Exercise7.exe
+X:\Solutions\Exercise7\Exercise7\bin\Debug\Exercise7.pdb
+X:\Solutions\Exercise7\Exercise7\obj\x86\Debug\Exercise7.exe
+X:\Solutions\Exercise7\Exercise7\obj\x86\Debug\Exercise7.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise7\Exercise7\obj\x86\Debug\Exercise7.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise7\Exercise7\obj\x86\Debug\Exercise7.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Exercise7\Exercise7\obj\x86\Debug\Exercise7.exe
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Exercise7\Exercise7\obj\x86\Debug\Exercise7.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Exercise7\Exercise7\bin\Debug\Exercise7.exe
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Exercise7\Exercise7\bin\Debug\Exercise7.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Exercise7\Exercise7\obj\x86\Debug\Exercise7.csprojResolveAssemblyReference.cache

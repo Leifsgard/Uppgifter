@@ -1,0 +1,5 @@
+z:\ec\Test2\Calc2\bin\Debug\Calc2.dll
+z:\ec\Test2\Calc2\bin\Debug\Calc2.pdb
+z:\ec\Test2\Calc2\obj\Debug\Calc2.csprojResolveAssemblyReference.cache
+z:\ec\Test2\Calc2\obj\Debug\Calc2.dll
+z:\ec\Test2\Calc2\obj\Debug\Calc2.pdb

@@ -1,0 +1,13 @@
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.pdb
+Y:\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.exe
+Y:\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.pdb
+Y:\Solutions\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+Y:\Solutions\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+X:\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.exe
+X:\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.pdb
+X:\Solutions\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+X:\Solutions\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+X:\Solutions\Exercise8\Exercise8\obj\x86\Debug\Exercise8.csprojResolveAssemblyReference.cache

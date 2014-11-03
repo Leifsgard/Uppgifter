@@ -3,3 +3,6 @@ c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\bin\Debug\L
 c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\bin\Debug\Logger.pdb
 c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\obj\Debug\Logger.exe
 c:\Users\Rasmus\documents\visual studio 2013\Projects\Projekt\Logger\obj\Debug\Logger.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Projekt\Logger\bin\Debug\Logger.exe.config
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Projekt\Logger\obj\Debug\Logger.exe
+C:\Users\Rasmus\Documents\Visual Studio 2013\Projects\Uppgifter\Projekt\Logger\obj\Debug\Logger.pdb
