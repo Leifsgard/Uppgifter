@@ -1,0 +1,4 @@
+X:\Solutions\Exercise10\Exercise10\bin\Debug\Exercise10.exe
+X:\Solutions\Exercise10\Exercise10\bin\Debug\Exercise10.pdb
+X:\Solutions\Exercise10\Exercise10\obj\x86\Debug\Exercise10.exe
+X:\Solutions\Exercise10\Exercise10\obj\x86\Debug\Exercise10.pdb

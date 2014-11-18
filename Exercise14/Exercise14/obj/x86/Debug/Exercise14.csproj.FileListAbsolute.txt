@@ -1,0 +1,5 @@
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise14\Exercise14\bin\Debug\Exercise14.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise14\Exercise14\bin\Debug\Exercise14.pdb
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise14\Exercise14\obj\x86\Debug\Exercise14.csprojResolveAssemblyReference.cache
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise14\Exercise14\obj\x86\Debug\Exercise14.exe
+Z:\Github\csharp-courses\csharp-beginner\Solutions\Exercise14\Exercise14\obj\x86\Debug\Exercise14.pdb

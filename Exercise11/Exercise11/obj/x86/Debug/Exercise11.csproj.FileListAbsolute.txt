@@ -1,0 +1,5 @@
+Y:\Solutions\Exercise11\Exercise11\bin\Debug\Exercise11.exe
+Y:\Solutions\Exercise11\Exercise11\bin\Debug\Exercise11.pdb
+Y:\Solutions\Exercise11\Exercise11\obj\x86\Debug\Exercise11.csprojResolveAssemblyReference.cache
+Y:\Solutions\Exercise11\Exercise11\obj\x86\Debug\Exercise11.exe
+Y:\Solutions\Exercise11\Exercise11\obj\x86\Debug\Exercise11.pdb
